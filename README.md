@@ -2,6 +2,7 @@ Hupp Technologies specializes in full stack front end development and offers sol
 1. Media Query
 2. Bootstrap with SASS
 3. Semantic UI
+4. Material UI
 
 React out to us : hello@hupp.in
 Website : http://hupp.in
